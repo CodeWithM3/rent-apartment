@@ -1,0 +1,20 @@
+{
+
+"401:Unauthorized":{
+    "status": 401,
+    "message": "Unauthorized"
+},
+"errors.apartment.notfound": {
+    "status": 404,
+    "message": "Apartment Not Found"  
+
+},
+ "errors.apartment.already.exist":{
+    "status": 400,
+    "message": "Apartment has been registered already" 
+ },
+ "errors.insufficient_credits": {
+    "status": 409,
+    "message": "Insufficient credits to perform this action"
+}
+}
